@@ -1,5 +1,9 @@
 # 📊 UPI Transactions Analysis Dashboard
 
+
+## 🚀 Live Project
+🔗 **Try it here:** [UPI Dashboard Live](https://upi-dashboard-rdjd9vobadrv3smdzn2ofi.streamlit.app/)
+
 ## 🧾 1. Project Overview
 
 **Dataset Source:** Kaggle  
@@ -87,12 +91,11 @@ Insights Extraction
 
 ## 🛠️ 7. Tech Stack
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Streamlit
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ---
 
 ## 📊 8. Dashboard Preview
